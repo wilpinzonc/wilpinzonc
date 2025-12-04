@@ -28,7 +28,8 @@ Cuento con experiencia previa en Soporte IT y una sólida capacidad de adaptaci�
 
 ### 📜 Certificaciones y Formación
 * **ASIR** - Administrador de Sistemas Informáticos en Red (En curso) 
-* **Cisco Networking Academy** - Introducción a Ciberseguridad (2025) 
+* **Cisco Networking Academy** - Introducción a Ciberseguridad (2025)
+* **Cisco Networking Academy** - Conciencia Digital (2025) 
 * **Diploma en Tecnologías de la Información** - Academy of Interactive Technology, Australia 
 
 ---
